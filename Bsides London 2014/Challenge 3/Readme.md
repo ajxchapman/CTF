@@ -1,4 +1,5 @@
-# Submission for B-Sides London Mission 3: The Geo-Cracker (https://www.securitybsides.org.uk/challenge3.html)
+# The Geo-Cracker
+Submission for B-Sides London Mission 3: The Geo-Cracker (https://www.securitybsides.org.uk/challenge3.html)
 Alex J Chapman
 
 C / ASM implementation of a solution requiring no external dependencies or libraries. This solution aims for over 95% accuracy (for the UK coordinate set) in the fastest time possible without relying on 3rd party or system libraries. Implementation includes pure code based base64 stream decoding and state machine byte analysis to identify a possible decryption key.
